@@ -1,0 +1,14 @@
+{
+  "resourceName": "awss3flutter",
+  "policyUUID": "eb36ebea",
+  "bucketName": "aws-s3-flutter-test",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
